@@ -1,5 +1,6 @@
 # C
 This repository is about C codes that are teached on my youtube channel.
+All codes are on master branch
 
 
 
